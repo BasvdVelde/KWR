@@ -1,0 +1,31 @@
+name,SMILES,rt
+"1,2,3-Benzotriazole",N1N=NC2=C1C=CC=C2,478.44
+"2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propanoic acid",C(=O)(C(C(F)(F)F)(OC(C(C(F)(F)F)(F)F)(F)F)F)O,NA
+"4-Methyl-1,2,3-benzotriazole",CC1=C2NN=NC2=CC=C1,607.44
+5-Methyl-1H-benzotriazole,CC1=CC2=C(NN=N2)C=C1,600.54
+Acesulfame potassium,[K+].CC1=CC(=O)[N-]S(=O)(=O)O1,198.72
+Aniline,NC1=CC=CC=C1,140.1
+Barbital,CCC1(CC)C(=O)NC(=O)NC1=O,481.38
+Carbamazepine,NC(=O)N1C2=CC=CC=C2C=CC2=C1C=CC=C2,797.34
+Carbendazim,COC(=O)NC1=NC2=CC=CC=C2N1,379.08
+Diatrizoic acid,CC(=O)NC1=C(I)C(C(O)=O)=C(I)C(NC(C)=O)=C1I,1
+Diclofenac,OC(=O)CC1=C(NC2=C(Cl)C=CC=C2Cl)C=CC=C1,1102.8
+Dimethenamid,COCC(C)N(C(=O)CCl)C1=C(C)SC=C1C,1042.8
+Dimethomorph,COC1=C(OC)C=C(C=C1)C(=CC(=O)N1CCOCC1)C1=CC=C(Cl)C=C1,995.82
+Furosemide,NS(=O)(=O)C1=C(Cl)C=C(NCC2=CC=CO2)C(=C1)C(O)=O,804.66
+Gabapentin,NCC1(CC(O)=O)CCCCC1,381.9
+Hexa(methoxymethyl)melamine,COCN(COC)C1=NC(=NC(=N1)N(COC)COC)N(COC)COC,NA
+Hydrochlorothiazide,NS(=O)(=O)C1=CC2=C(NCNS2(=O)=O)C=C1Cl,430.86
+Melamine,NC1=NC(N)=NC(N)=N1,127.8
+Metformin,CN(C)C(=N)NC(N)=N,130.8
+Methenamine,C1N2CN3CN1CN(C2)C3,126.84
+Phenobarbital,CCC1(C(=O)NC(=O)NC1=O)C1=CC=CC=C1,683.16
+Propranolol,CC(C)NCC(O)COC1=C2C=CC=CC2=CC=C1,709.86
+Pyrazole,N1C=CC=N1,NA
+Sucralose,OC[C@H]1O[C@H](O[C@]2(CCl)O[C@H](CCl)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@H]1Cl,489.48
+Terbutylazine,CCNC1=NC(NC(C)(C)C)=NC(Cl)=N1,1014.36
+Tetraglyme,COCCOCCOCCOCCOC,NA
+Tiamulin,CCN(CC)CCSCC(=O)O[C@@H]1C[C@@](C)(C=C)[C@@H](O)[C@H](C)[C@]23CCC(=O)[C@H]2[C@@]1(C)[C@H](C)CC3,827.04
+Tramadol,COC1=CC=CC(=C1)[C@@]1(O)CCCC[C@@H]1CN(C)C,561
+Trifluoroacetic acid,C(=O)(C(F)(F)F)O,NA
+Triphenylphosphine oxide,O=P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1,923.34
