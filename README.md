@@ -13,7 +13,7 @@ The "other" folder contains R codes used to aid the project, such as merging the
 files extracted from the MASSBANK database
 
 The R-scripts used for the rapid sand filtration (RSF) with metolachlor spiked-in can be found in the "RSF" folder.
-The "SandfiltrationTP.R" file contains the patRoon code used. The .Rprof contains the calculated values with patRoon
+The "SandfiltrationTP.R" file contains the patRoon code used. The .Rprof contains the calculated values with patRoon (https://doi.org/10.21203/rs.3.rs-36675/v2)
 
 The same applies for the activated carbon filtration (ACF) filter 1 and 2 and are in seperate folders in the "ACF" folder.
  
